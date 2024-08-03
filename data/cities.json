@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "02aa",
+      "cityName": "Garigny",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-08-01T16:27:49.612Z",
+      "notes": "",
+      "position": {
+        "lat": 47.08508535995386,
+        "lng": 2.8784179687500004
+      }
+    },
+    {
+      "id": "68b3",
+      "cityName": "Montejo de Tiermes",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-01T16:50:19.690Z",
+      "notes": "",
+      "position": {
+        "lat": 41.36031866306708,
+        "lng": -3.2080078125000004
+      }
+    }
+  ]
+}
